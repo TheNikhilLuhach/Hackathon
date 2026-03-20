@@ -92,7 +92,7 @@ export function About() {
               <div className="text-slate-400">Innovation Tracks</div>
             </div>
             <div className="glass rounded-2xl p-6 text-center card-hover">
-              <div className="text-4xl font-bold gradient-text mb-2">₹50K+</div>
+              <div className="text-4xl font-bold gradient-text mb-2">₹5K+</div>
               <div className="text-slate-400">Prize Pool</div>
             </div>
           </motion.div>
